@@ -1,0 +1,7 @@
+---
+- test: testing
+- test/: testing
+- Test: testing
+- Test/: testing
+- TEST: testing
+- TEST/: testing
